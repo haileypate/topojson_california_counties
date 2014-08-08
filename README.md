@@ -16,7 +16,7 @@ You'll need to install two command line tools before you can transform the files
 
 ##### Step 2: Start with shapefiles from the US Census Bureau
 
-To get the data for California, we'll need to start with the file containing all 50 states. It comes as a ZIP folder that can be downloaded [here](ftp://ftp2.census.gov/geo/tiger/TIGER2013/COUNTY/).
+To get the data for California, we'll need to start with the file containing the counties for all 50 states. It comes as a ZIP folder that can be downloaded [here](https://www.census.gov/cgi-bin/geo/shapefiles2013/main).
 
 ##### Step 3: Convert the shapefile to geoJSON using ogr2ogr
 
